@@ -1,4 +1,4 @@
-Workplan.md
+
 
 analysis and platform (SOA principle)
 TDD build ui
